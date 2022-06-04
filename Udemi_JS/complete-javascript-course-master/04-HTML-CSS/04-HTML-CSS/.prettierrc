@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "arrowParens": "always",
+  "prettier.useTabs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
